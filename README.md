@@ -18,7 +18,7 @@ O objetivo deste projeto é analisar a eficiência da operação logística atra
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 **Acesse o dashboard interativo:**
 https://datastudio.google.com/s/spDj3qV7Pvo
